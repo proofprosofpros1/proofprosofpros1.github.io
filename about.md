@@ -1,15 +1,26 @@
 ---
 layout: page
-title: About
+title: About ME
 permalink: /about/
 ---
 
-Some information about you!
+I am 12 years old
+I play Fortnite 
+I play ROBLOX
+I play Tennis
+
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I like bacon
+But I like dogs better
+I like dogs
+I especially like Corgis
+I like Corgis
+I REALLY like Corgis
+YEET Corgis
+CORGI CORGI CORGI CORGI CORGI CORGI CORGI CORGI CORGI 
 
-### Contact me
+### Contact Me
 
-[email@domain.com](mailto:email@domain.com)
+Don't
