@@ -3,9 +3,11 @@ layout: post
 title: My post
 ---
 
-About Corgis
+Fun Facts About Corgis
 
-(Next is from wikipedia)
-Welsh Corgis have historically been used as herding dogs, specifically for cattle. They are of the type of herding dog referred to as "heelers", meaning that they would nip at the heels of the larger animals to keep them on the move.[7] Both Pembrokeshire and Cardigan are historically agricultural areas of Wales.[8] The combination of the low height off the ground and innate agility of Welsh Corgis would allow them to avoid the hooves of cattle.[7] The term "Corgi" means either cur dog or dwarf dog (cor = dwarf, gi = lenitive of ci, dog) in the Welsh language, which was not intended as an insult to the dog's size, rather as a purely descriptive term.[8] There is also a folk legend that says Corgis were a gift from the woodland fairies, and that the breed's markings were left on its coat by fairy harnesses and saddles.[9]
+1. British royalty had them
+2. The shape on their back is supposely caused by harnesses from fairy wagons
+3. There are two main type of Corgis. The Pembroke Welsh Corgi and the Cardigan Welsh Corgi
+4. There are a ton of corgi memes ;)
 
 ![Corgi](/images/i1vdqt4ksba11.jpg)
