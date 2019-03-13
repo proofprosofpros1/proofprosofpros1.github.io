@@ -3,7 +3,7 @@ layout: post
 title: My post
 ---
 
-Fun Facts About Corgis
+###Fun Facts About Corgis
 
 1. British royalty had them
 2. The shape on their back is supposely caused by harnesses from fairy wagons
