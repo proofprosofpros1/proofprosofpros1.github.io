@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Fortnite
+title: My post
 ---
 
 On sunday, 3/10/19, I almost had a number one victory royale. I also finally got 100 v-bucks. 
