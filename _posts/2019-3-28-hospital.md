@@ -3,7 +3,7 @@ layout: post
 title: Hospital
 ---
 
-### Math Competition
+### The very long day
 
 On Sunday here is what happened:
 1. I went to coding club
