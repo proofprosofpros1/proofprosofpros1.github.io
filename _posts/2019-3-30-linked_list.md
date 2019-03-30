@@ -11,3 +11,8 @@ The inesrt function inserts a new node into the list.
 The first piece of the linked list is the head node.
 The find function checks at each stop to see whether the current node has the requested data and if so, 
 it returns the node holding that data.
+
+Also, if you want to add an node at the beginning, than you would have to make the tmp's next to be the head, 
+and then you make tmp head. 
+
+![Linked List](/images/coding.jpg)
