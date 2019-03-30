@@ -14,5 +14,3 @@ it returns the node holding that data.
 
 Also, if you want to add an node at the beginning, than you would have to make the tmp's next to be the head, 
 and then you make tmp head. 
-
-![Linked List](/images/coding.jpg)
